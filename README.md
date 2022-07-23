@@ -16,7 +16,7 @@ Run the app on your terminal:
 streamlit run pychain.py
 ```
 
-To interact with the blockchain provider values for `sender`, `receiver` and `amount`.
+To interact with the pychain ledger, provide input values for `sender`, `receiver` and `amount`.
 
 Once you get the app running it should look like this
 
