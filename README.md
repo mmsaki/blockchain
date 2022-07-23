@@ -20,4 +20,4 @@ To interact with the pychain ledger, provide input values for `sender`, `receive
 
 Once you get the app running it should look like this
 
-!['Stream lit screenshot'](./images/Screen%20Shot%202022-07-23%20at%208.42.42%20AM.png)
+!['Stream lit screenshot'](./images/pychain_screenshot.jpg)
