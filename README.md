@@ -10,11 +10,13 @@ Using terminal, get into the blockhain directory:
 cd blockchain
 ```
 
-Run the app on your terminal:
+If you have streamlit installed. Run the app on your terminal:
 
 ```
 streamlit run pychain.py
 ```
+
+Otherwise install streamlit using `pip install streamlit` and then run the pychain.py app.
 
 To interact with the pychain ledger, provide input values for `sender`, `receiver` and `amount`.
 
