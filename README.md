@@ -20,6 +20,6 @@ Otherwise install streamlit using `pip install streamlit` and then run the `pych
 
 To interact with the pychain ledger, provide input values for `sender`, `receiver` and `amount`.
 
-Once you get the app running it should look like this
+Once you get the app running, it should look like this:
 
 !['Stream lit screenshot'](./images/pychain_screenshot.jpg)
